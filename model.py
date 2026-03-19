@@ -39,7 +39,7 @@ VOCAB = [
     "\\mathbb{K}","\\mathbb{L}","\\mathbb{M}","\\mathbb{N}","\\mathbb{O}",
     "\\mathbb{P}","\\mathbb{Q}","\\mathbb{R}","\\mathbb{S}","\\mathbb{T}",
     "\\mathbb{U}","\\mathbb{V}","\\mathbb{W}","\\mathbb{X}","\\mathbb{Y}",
-    "\\mathbb{Z}",
+    "\\mathbb{Z}","\\mathbb",
     ",",";",":","!","?",".","(",")","]","[","\\{","\\}",
     "*","/","+","-","\\_","\\&","\\#","\\%","|","\\backslash",
     "\\alpha","\\beta","\\delta","\\Delta","\\epsilon","\\eta",
