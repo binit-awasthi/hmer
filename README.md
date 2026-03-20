@@ -2,6 +2,11 @@
 
 A deep learning model that converts images of handwritten math expressions into LaTeX.
 
+## 🚀 Live Demo
+
+👉 **Try it on 🤗 Hugging Face Spaces:**  
+🔗 https://huggingface.co/spaces/binit-awasthi/hmer-demo
+
 ## Architecture
 
 ```
@@ -27,8 +32,8 @@ Trained on [MathWriting](https://huggingface.co/datasets/deepcopy/MathWriting-hu
 
 | Metric | Score |
 |--------|-------|
-| Token Accuracy (test) | ~96% |
-| Expression Recognition Rate (test) | ~45.5% |
+| Token Accuracy (test) | 94.43% |
+| Expression Recognition Rate (test) | 44.52% |
 
 Expression Recognition Rate (ExpRate) measures exact full-sequence matches — the standard metric for HMER.
 
